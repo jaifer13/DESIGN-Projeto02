@@ -1,0 +1,63 @@
+@import url(geral.css);
+
+.principal{
+    
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 80px;
+    gap: 10px;
+    color:white;
+    padding: 10px;
+
+    
+    
+    
+}
+
+.quadrado1{
+    flex: 1 1 150px;
+    background-color:#750808;
+    width: 250px;
+    
+    padding: 10px;
+    border-radius: 10px;
+    border: 4px white solid;
+    
+}
+.quadrado2{
+    
+    flex: 1 1 150px;
+    background-color: #750808;
+    width: 200px;
+    
+    padding: 10px;
+    border-radius: 10px;
+    border: 4px white solid;
+}  
+.quadrado3{
+    flex: 1 1 150px;
+    
+    background-color:#750808;
+    width: 200px;
+    
+    padding: 10px;
+    border-radius: 10px;
+    border: 4px white solid;
+    flex: 1 1 150px;
+}  
+.quadrado4{
+    flex: 1 1 150px;
+    
+    background-color:#750808;
+    width: 200px;
+    
+    padding: 10px;
+    
+    border-radius: 10px;
+    border: 4px white solid;
+    
+
+}

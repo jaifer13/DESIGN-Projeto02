@@ -1,0 +1,39 @@
+@import url(geral.css);
+.formulario{
+    text-align: center;
+    color: white;
+    
+}
+.forma{
+    display: flex;
+    text-align: center;
+    flex-wrap:nowrap;
+    flex-direction: column;
+    padding: 1vw 20vw;
+    margin: 50px;
+    border: 4px white solid;
+    gap: 1vw;
+    border-radius: 10px;
+    background-color: #750808;;
+    color: white;
+    
+    
+
+    
+    
+}
+.forma>input{
+    padding: 1vw;
+    border-radius: 10px;
+    border: 4px white solid;
+}
+.enviar{
+    width: 15vw ;
+    margin-left: 30vw;
+    background-color: black;
+    color: white;
+
+}
+    
+
+
